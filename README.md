@@ -1,3 +1,5 @@
+![Capturehj](https://user-images.githubusercontent.com/65108734/112618048-bc6ec700-8e4b-11eb-9f5b-0a4bed308523.JPG)
+![Capturegg](https://user-images.githubusercontent.com/65108734/112618085-cabce300-8e4b-11eb-9d33-0ba22fe17d53.JPG)
 # newsapp
 
 A new Flutter project.
